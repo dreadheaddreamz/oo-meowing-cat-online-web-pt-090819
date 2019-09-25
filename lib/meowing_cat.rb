@@ -5,4 +5,5 @@ def method(meow)
   puts "meow"
 end
 end
+end
 
