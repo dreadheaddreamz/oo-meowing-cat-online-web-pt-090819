@@ -1,2 +1,3 @@
 class Cat
-  at
+  attr_accessor :name
+end
